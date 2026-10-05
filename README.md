@@ -10,8 +10,6 @@ An end-to-end machine learning project that predicts which telecom customers are
 > **Business question:** Acquiring a new customer costs far more than keeping an existing one. If we can flag at-risk customers early, the retention team can act before they leave.
 
 ## 🖥️ Demo
-images/Screenshot 2026-10-05 123026.png
-
 Live app: https://customer-churn-prediction-bfek4scdo8vahahz6gpedf.streamlit.app/
 
 ## 🎯 Results
