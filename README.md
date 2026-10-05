@@ -12,9 +12,9 @@ An end-to-end machine learning project that predicts which telecom customers are
 ## 🖥️ Demo
 
 > Add a screenshot or GIF of the Streamlit app here:
-> `![App demo](images/app_demo.png)`
+file:///C:/Users/lasar/OneDrive/Pictures/Screenshots/Screenshot%202026-10-05%20123026.png
 
-Live app: **[add your Streamlit Cloud link]**
+Live app: https://customer-churn-prediction-bfek4scdo8vahahz6gpedf.streamlit.app/
 
 ## 🎯 Results
 
