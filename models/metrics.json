@@ -1,0 +1,50 @@
+{
+  "best_model": "Logistic Regression",
+  "dataset": {
+    "rows": 7043,
+    "churn_rate": 26.5,
+    "churn_by_contract": {
+      "Month-to-month": 42.7,
+      "One year": 11.3,
+      "Two year": 2.8
+    }
+  },
+  "test_results": {
+    "Logistic Regression": {
+      "roc_auc": 0.8415,
+      "accuracy": 0.7381,
+      "precision": 0.5043,
+      "recall": 0.7834,
+      "f1": 0.6136,
+      "cv_roc_auc": 0.846
+    },
+    "Random Forest": {
+      "roc_auc": 0.8421,
+      "accuracy": 0.775,
+      "precision": 0.5567,
+      "recall": 0.7487,
+      "f1": 0.6385,
+      "cv_roc_auc": 0.8455
+    },
+    "Gradient Boosting": {
+      "roc_auc": 0.8413,
+      "accuracy": 0.7551,
+      "precision": 0.5258,
+      "recall": 0.7888,
+      "f1": 0.631,
+      "cv_roc_auc": 0.8456
+    }
+  },
+  "top_drivers": [
+    "tenure",
+    "InternetService",
+    "MonthlyCharges",
+    "Contract",
+    "TotalCharges",
+    "StreamingMovies",
+    "OnlineSecurity",
+    "StreamingTV",
+    "TechSupport",
+    "PaymentMethod"
+  ]
+}
